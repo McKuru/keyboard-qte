@@ -1,0 +1,6 @@
+{
+  "name": "QTE Practice",
+  "description": "A minimalist Quick Time Event practice trainer with Catppuccin styling, customizable key pools, dynamic timers, and performance statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
